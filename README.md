@@ -7,3 +7,5 @@ En este curso se ve:
 * Comandos Git
 * Flujos de trabajo Github
 * Buenas Practicas
+* Las multiples personalidades de fredy
+* Elaborado por Platzi

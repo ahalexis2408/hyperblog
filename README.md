@@ -10,3 +10,4 @@ En este curso se ve:
 * Las multiples personalidades de fredy
 * Elaborado por Platzi
 * Incluye ejemplos en linux windows y mas
+* Disponible para todas las edades
